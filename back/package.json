@@ -1,0 +1,22 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gabriel_velloso@bitbucket.org/gabriel_velloso/back5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/gabriel_velloso/back5#readme",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  }
+}
